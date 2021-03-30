@@ -2,6 +2,8 @@
 
 Code for respective [paper](http://www.cs.cmu.edu/~peterw1/website_files/privacy.pdf).
 
+Here is a [link](https://peter-yh-wu.github.io/speech-privacy-samples/) to our generated samples.
+
 ## Background
 
 Existing approaches to ensuring privacy of user speech data primarily focus on server-side approaches. While improving server-side privacy reduces certain security concerns, users still do not retain control over whether privacy is ensured on the client-side. In this paper, we define, evaluate, and explore techniques for client-side privacy in speech recognition, where the goal is to preserve privacy on raw speech data before leaving the client’s device. We first formalize several tradeoffs in ensuring client-side privacy between performance, compute requirements, and privacy. Using our tradeoff analysis, we perform a large-scale empirical study on existing approaches and find that they fall short on at least one metric. Our results call for more research in this crucial area as a step towards safer real-world deployment of speech recognition systems at scale across mobile devices
