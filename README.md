@@ -1,6 +1,4 @@
-# Understanding the Tradeoffs in Client-Side Privacy for Speech Recognition
-
-Code for respective [paper](http://www.cs.cmu.edu/~peterw1/website_files/privacy.pdf).
+# Client-Side Privacy for Speech Recognition
 
 Here is a [link](https://peter-yh-wu.github.io/speech-privacy-samples/) to our generated samples.
 
