@@ -1,4 +1,4 @@
-# Towards Client-side Privacy for Downstream Speech Tasks
+# Understanding the Tradeoffs in Client-side Privacy for Downstream Speech Tasks
 
 Here is a [link](https://peter-yh-wu.github.io/speech-privacy-samples/) to our generated samples.
 
