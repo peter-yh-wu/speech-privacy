@@ -16,6 +16,8 @@ Further instructions for running experiments will be added soon!
 
 ## Paper
 
+[**Understanding the Tradeoffs in Client-side Privacy for Downstream Speech Tasks**](https://arxiv.org/abs/2101.08919)
+
 ```
 @inproceedings{wu2021privacy,
       title={Understanding the Tradeoffs in Client-side Privacy for Downstream Speech Tasks},
