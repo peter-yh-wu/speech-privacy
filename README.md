@@ -12,6 +12,8 @@ Here is a [link](https://peter-yh-wu.github.io/speech-privacy-samples/) to our g
 
  - Run `src/main.py` to train the adversary classifier.
 
+ - [Link](https://github.com/espnet/espnet/tree/master/egs2/librispeech/asr1) to ASR model.
+
 Further instructions for running experiments will be added soon!
 
 ## Paper
