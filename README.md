@@ -4,7 +4,7 @@ Here is a [link](https://peter-yh-wu.github.io/speech-privacy-samples/) to our g
 
 ## Notes
 
- - [Link](https://github.com/jjery2243542/voice_conversion) to GAN voice conversion model.
+ - [Link](https://github.com/peter-yh-wu/voice_conversion/tree/speech_privacy) to GAN voice conversion model.
 
  - [Link](https://github.com/jjery2243542/adaptive_voice_conversion) to VAE voice conversion model.
 
