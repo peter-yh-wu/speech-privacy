@@ -14,8 +14,6 @@ Here is a [link](https://peter-yh-wu.github.io/speech-privacy-samples/) to our g
 
  - [Link](https://github.com/espnet/espnet/tree/master/egs2/librispeech/asr1) to ASR model.
 
-Further instructions for running experiments will be added soon!
-
 ## Paper
 
 [**Understanding the Tradeoffs in Client-side Privacy for Downstream Speech Tasks**](https://arxiv.org/abs/2101.08919)
