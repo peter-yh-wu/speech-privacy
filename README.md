@@ -13,3 +13,14 @@ Here is a [link](https://peter-yh-wu.github.io/speech-privacy-samples/) to our g
  - Run `src/main.py` to train the adversary classifier.
 
 Further instructions for running experiments will be added soon!
+
+## Paper
+
+```
+@inproceedings{wu2021privacy,
+      title={Understanding the Tradeoffs in Client-side Privacy for Downstream Speech Tasks},
+      author={Peter Wu and Paul Pu Liang and Jiatong Shi and Ruslan Salakhutdinov and Shinji Watanabe and Louis-Philippe Morency},
+      booktitle={APSIPA ASC},
+      year={2021}
+}
+```
